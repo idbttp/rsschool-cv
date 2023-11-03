@@ -36,3 +36,7 @@ My educational projects:
 - [HTML Academy - Exercises](https://htmlacademy.ru/)
 - [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+
+## Languages
+- Russian - Native
+- English - B2 (Upper-Intermediate)
