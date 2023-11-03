@@ -16,3 +16,10 @@ I love coding and creating something by myself. Recently graduated from RTU MIRE
 - Git
 - Figma
 - VSCode
+
+## Code Example
+```js
+function multiply(a, b) {
+  return a * b;
+}
+```
