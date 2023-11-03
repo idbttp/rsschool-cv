@@ -1,4 +1,5 @@
 # Roman Grankin
+![Pulsating dark hole](https://avatars.githubusercontent.com/u/148935383?v=4)
 
 ## Contact Information
 - **Email**: [idbttp@gmail.com](mailto:idbttp@gmail.com)
