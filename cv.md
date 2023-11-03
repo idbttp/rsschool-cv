@@ -27,3 +27,12 @@ function multiply(a, b) {
 ## Work Experience
 My educational projects:
 - [rsschool-cv](https://github.com/idbttp/rsschool-cv) - cv project that you are seeing now
+
+## Education
+- 2018-2022 -- RTU MIREA
+  - Bachelor's Degree at Software Engineering
+
+### Training courses
+- [HTML Academy - Exercises](https://htmlacademy.ru/)
+- [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
