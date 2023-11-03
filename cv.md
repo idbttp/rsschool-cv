@@ -1,0 +1,43 @@
+# Roman Grankin
+![Pulsating dark hole](https://avatars.githubusercontent.com/u/148935383?v=4)
+
+## Contact Information
+- **Email**: [idbttp@gmail.com](mailto:idbttp@gmail.com)
+- **Telegram**: [@idbttp](https://t.me/idbttp)
+- **Discord**: @idbttp
+- **GitHub**: [@idbttp](https://github.com/idbttp)
+
+## Summary
+I love coding and creating something by myself. Recently graduated from RTU MIREA with a bachelor's degree. Currently I am starting my enrollment at RS School. I have big hopes for this course because I've seen a lot of positive reviews. My goal is to complete this course and get a frontend developer job.
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Git
+- Figma
+- VSCode
+
+## Code Example
+```js
+function multiply(a, b) {
+  return a * b;
+}
+```
+
+## Work Experience
+My educational projects:
+- [rsschool-cv](https://github.com/idbttp/rsschool-cv) - cv project that you are seeing now
+
+## Education
+- 2018-2022 -- RTU MIREA
+  - Bachelor's Degree at Software Engineering
+
+### Training courses
+- [HTML Academy - Exercises](https://htmlacademy.ru/)
+- [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+
+## Languages
+- Russian - Native
+- English - B2 (Upper-Intermediate)
