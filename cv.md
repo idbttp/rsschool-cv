@@ -23,3 +23,7 @@ function multiply(a, b) {
   return a * b;
 }
 ```
+
+## Work Experience
+My educational projects:
+- [rsschool-cv](https://github.com/idbttp/rsschool-cv) - cv project that you are seeing now
